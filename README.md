@@ -1,6 +1,7 @@
-# Tasker - Online Tasks Website
+# Tasker - Online Tasks Website using MERN Stack.
 Deployed at - http://kartikvirendrarajput.co/, https://tasker-kvr.netlify.app/tasks.
-Fully Responsive, Dark and Light Mode Support.
+
+Login and Authentication using Google Firebase, Fully Responsive, Dark and Light Mode Support.
 
 ## Screenshots - 
 
