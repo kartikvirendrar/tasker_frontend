@@ -13,6 +13,8 @@ Tasks Page-
 Add/Update/Delete Task-
 ![image](https://user-images.githubusercontent.com/88619994/193125803-ced52c49-590d-4579-882d-cb9923e92380.png)
 ![image](https://user-images.githubusercontent.com/88619994/193125841-9aa0dc68-330e-42b6-89a3-d6b633d3b524.png)
+
+Team Page-
 ![image](https://user-images.githubusercontent.com/88619994/193126004-5d6d071b-b00c-41be-ac1f-925c3d7ced89.png)
 
 Login/Register/Profile-
